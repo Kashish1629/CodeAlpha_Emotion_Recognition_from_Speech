@@ -6,3 +6,4 @@
  to offer different services like marketing company suggesting you to buy products based on your emotions, automotive industry can detect the persons emotions and adjust the 
  speed of autonomous cars as required to avoid any collisions etc.
  
+ 
